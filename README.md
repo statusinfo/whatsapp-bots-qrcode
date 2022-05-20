@@ -1,1 +1,0 @@
-# whatsapp-bots-qrcode
